@@ -1,0 +1,16 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": true,
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "'Ricty Diminished', Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.iconTheme": "vscode-icons",
+     "files.associations": {
+        "Vagrantfile":"ruby"
+    },
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.fontSize": 12
+}
